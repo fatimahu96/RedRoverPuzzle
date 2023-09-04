@@ -27,4 +27,12 @@ And also to this output:
     - c3
   - id
   - name
+ 
+To run the application, please do the following:
+
+1. Download the zipped file.
+2. Unzip the file. Open a new command prompt window
+3. cd into the following directory: RedRoverPuzzle-main\bin\Debug\net7.0
+4. Run dotnet RedRoverPuzzle.dll
+5. Output will be printed
 
