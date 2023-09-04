@@ -1,0 +1,15 @@
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/bin/Debug/net7.0/RedRoverPuzzle
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/bin/Debug/net7.0/RedRoverPuzzle.deps.json
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/bin/Debug/net7.0/RedRoverPuzzle.runtimeconfig.json
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/bin/Debug/net7.0/RedRoverPuzzle.dll
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/bin/Debug/net7.0/RedRoverPuzzle.pdb
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.csproj.AssemblyReference.cache
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.AssemblyInfoInputs.cache
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.AssemblyInfo.cs
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.csproj.CoreCompileInputs.cache
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.dll
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/refint/RedRoverPuzzle.dll
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.pdb
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/RedRoverPuzzle.genruntimeconfig.cache
+/Users/fatimahussaini/Desktop/RedRoverPuzzle/obj/Debug/net7.0/ref/RedRoverPuzzle.dll
